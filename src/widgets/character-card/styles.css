@@ -1,0 +1,9 @@
+.card {
+  width: 200px;
+  height: 230px;
+}
+
+.link {
+  text-decoration: none;
+  cursor: pointer;
+}

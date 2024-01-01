@@ -1,0 +1,12 @@
+.form {
+  width: 600px;
+  flex-shrink: 0;
+}
+
+.controlsbtns {
+  text-align: center;
+}
+
+.btn {
+  margin-right: 20px;
+}

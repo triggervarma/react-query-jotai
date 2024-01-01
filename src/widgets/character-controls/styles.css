@@ -1,0 +1,15 @@
+.controls {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
+.buttons {
+  display: flex;
+  gap: 15px;
+}
+
+.checkboxContainer {
+  height: 36px;
+}
